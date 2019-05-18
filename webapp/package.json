@@ -28,5 +28,4 @@
       "last 1 safari version"
     ]
   }
-  "start": "http-server ./app -a 18.222.143.178 -p 3000 -c-1",
 }
