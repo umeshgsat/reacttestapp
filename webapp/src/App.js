@@ -8,9 +8,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        React web app Successfully hosted.('\n')
+        React web app Successfully hosted.
         Build Trigerd by Git-webhook
-        </br>
+        
+        </p>
+        <p>
         Line break working 
         </p>
        
