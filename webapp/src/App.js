@@ -11,7 +11,7 @@ function App() {
         React web app Successfully hosted.
         </p>
         <p>
-        Line 2
+        Pepper Cloud
         </p>
         <p> 
           Thank YOU
