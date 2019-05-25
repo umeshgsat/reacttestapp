@@ -9,11 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         React web app Successfully hosted.
-        Build Trigerd by Git-webhook
-        
         </p>
         <p>
-       Next line 2 
+        Pepper Cloud
         </p>
         <p> 
           Thank YOU
