@@ -10,7 +10,7 @@ function App() {
         <p>
         React web app Successfully hosted.
         </p>
-        <h1>headline</h1>
+        <h1></h1>
         
         <p>
 
