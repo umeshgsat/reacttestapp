@@ -11,12 +11,7 @@ function App() {
         React web app Successfully hosted.
         </p>
         <p>
-        Line 2
-        </p>
-        <p> 
-          Thank YOU
-        </p>
-       
+        </p>       
       </header>
     </div>
   );
